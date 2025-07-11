@@ -54,7 +54,7 @@
             Console.WriteLine();
             Console.WriteLine($"That is also {uptime.IntervalDays()} days, {uptime.IntervalHoursPart()} hours, {uptime.IntervalMinutesPart()} minutes, {uptime.IntervalSecondsPart()} seconds, and {uptime.MillisecondPart()} milliseconds.");
             Console.WriteLine();
-            Console.WriteLine(" =====  End of Runner program, press any key  =====");
+            Console.WriteLine(" =====  End of Runner program, enter to quit  =====");
             Console.ReadLine();
         }
         private static void Time_NetworkTimeAcquired(object sender, NTPEventArgs e)
