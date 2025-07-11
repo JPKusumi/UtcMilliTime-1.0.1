@@ -2,7 +2,7 @@ Note that there is a newer version of this component. For that, flip to another 
 - **2.0.0**: .NET 8.0, cross-platform, Task-based async APIs, `CreateAsync` for async `Main`, `ToIso8601String` for ISO-8601 conversion. Recommended for modern .NET.  
 - **1.0.1**: .NET Standard 2.0 (Windows-only, .NET Framework 4.6.1+, .NET Core 2.0+). It remains available for legacy projects.  
   
-**What follows is about 1.0.1:**  
+**What follows is about 1.0.1—**  
   
 # UtcMilliTime takes Windows.ToUnixTimeMilliseconds()
 UtcMilliTime is a C# time component (software defined clock) for Windows that yields UnixTimeMilliseconds Int64 timestamps. .NET developers can use Time.Now just as JavaScript devs use Date.now(). Synchronizes with NTP (Network Time Protocol). Mock friendly.
