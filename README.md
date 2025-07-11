@@ -1,4 +1,4 @@
-Note that there is a newer version of this component. For that, flip to another repo: UtcMilliTime-2.0.0.  
+Note that there is a newer version of this component. For that, flip to another repo: https://github.com/JPKusumi/UtcMilliTime-2.0.0  
 - **2.0.0**: .NET 8.0, cross-platform, Task-based async APIs, `CreateAsync` for async `Main`, `ToIso8601String` for ISO-8601 conversion. Recommended for modern .NET.  
 - **1.0.1**: .NET Standard 2.0 (Windows-only, .NET Framework 4.6.1+, .NET Core 2.0+). It remains available for legacy projects.  
   
