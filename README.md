@@ -1,10 +1,10 @@
 > **⚠️ This is an archived version (v1.x).**  
-> The current version of UtcMilliTime is available here:  
+> Newer versions of UtcMilliTime require .NET 8 or later.  
+> This older version may still be useful for legacy projects.  
+> The current version is available here:  
 > **https://github.com/JPKusumi/UtcMilliTime**
 
 ---
-- **3.x**: .NET 8.0+, cross-platform, recommended for modern .NET.  
-- **1.x**: .NET Standard 2.0 (Windows-only, .NET Framework 4.6.1+, .NET Core 2.0+). It remains available for legacy projects.  
   
 **What follows is about version 1.0.1—**  
   
